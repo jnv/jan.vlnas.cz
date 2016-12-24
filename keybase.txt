@@ -1,0 +1,59 @@
+==================================================================
+https://keybase.io/jnv
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jan.vlnas.cz
+  * I am jnv (https://keybase.io/jnv) on keybase.
+  * I have a public key ASBIZVkPVMNiIuzZgRV3eCmCmrUDL3kZ0xr1bpryd_CbrAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": 
+"010113d3ebcf662a6b80236e73e45340d742fe1bff068d4a752b8fde823e9b3b83960a",
+            "host": "keybase.io",
+            "kid": 
+"01204865590f54c36222ecd98115777829829ab5032f7919d31af56e9af277f09bac0a",
+            "uid": "77ebf44501d5ab3c1628f1a217013800",
+            "username": "jnv"
+        },
+        "service": {
+            "hostname": "jan.vlnas.cz",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1480901398,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1480901178,
+        "hash": 
+"4bcf68d572cbaec77d77eb25ecc759967bb4a8cd478790370d21fb90283a6fcea7ff89f1acfd1efe946ed6ab74a620acb15dc13b485959a033048927b7544aa5",
+        "seqno": 747626
+    },
+    "prev": 
+"907e66569b82d8139537ff2ccb097973dbd7e019f57a27b56fe30041bc942d55",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSGVZD1TDYiLs2YEVd3gpgpq1Ay95GdMa9W6a8nfwm6wKp3BheWxvYWTFAvB7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTNkM2ViY2Y2NjJhNmI4MDIzNmU3M2U0NTM0MGQ3NDJmZTFiZmYwNjhkNGE3NTJiOGZkZTgyM2U5YjNiODM5NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDg2NTU5MGY1NGMzNjIyMmVjZDk4MTE1Nzc3ODI5ODI5YWI1MDMyZjc5MTlkMzFhZjU2ZTlhZjI3N2YwOWJhYzBhIiwidWlkIjoiNzdlYmY0NDUwMWQ1YWIzYzE2MjhmMWEyMTcwMTM4MDAiLCJ1c2VybmFtZSI6ImpudiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiamFuLnZsbmFzLmN6IiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODA5MDEzOTgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4MDkwMTE3OCwiaGFzaCI6IjRiY2Y2OGQ1NzJjYmFlYzc3ZDc3ZWIyNWVjYzc1OTk2N2JiNGE4Y2Q0Nzg3OTAzNzBkMjFmYjkwMjgzYTZmY2VhN2ZmODlmMWFjZmQxZWZlOTQ2ZWQ2YWI3NGE2MjBhY2IxNWRjMTNiNDg1OTU5YTAzMzA0ODkyN2I3NTQ0YWE1Iiwic2Vxbm8iOjc0NzYyNn0sInByZXYiOiI5MDdlNjY1NjliODJkODEzOTUzN2ZmMmNjYjA5Nzk3M2RiZDdlMDE5ZjU3YTI3YjU2ZmUzMDA0MWJjOTQyZDU1Iiwic2Vxbm8iOjE0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKb+k3/9E/OnMyJTIEPy1NkQJYEoXe/fegG6PI9tdOBC2YfAHFmbbL143ZMSDBNRa5xt6oT4zsyUlhGRRdL3Jwuoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAl6zHiRLAVVdqnWcINUKE26JMPl/Kup1PW/SJMDqXtcqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jnv
+
+==================================================================
+
